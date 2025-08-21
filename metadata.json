@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Partner",
+  "description": "An adaptive web application that generates personalized practice quizzes. The AI focuses on topics where the user has previously made mistakes, creating a tailored learning experience.",
+  "requestFramePermissions": []
+}
